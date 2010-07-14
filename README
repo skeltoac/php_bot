@@ -1,0 +1,4 @@
+php_bot - Ejabberd module for creating bot behaviors in PHP via php_app
+
+This module requires php_app. It acts as a packet filter, intercepting packets
+addressed to the bot's JID and passing them to a PHP function.
